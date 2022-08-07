@@ -1,0 +1,31 @@
+
+header{
+    text-align: center;
+    color: brown;
+    background-color: burlywood;
+    padding: 75px;
+}
+
+aside{
+   
+    position: absolute;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70%;
+    margin-top: 250px;  
+    flex-direction: column;
+}
+nav {
+    background-color: cornflowerblue;
+
+}
+
+footer{
+    background-color:aquamarine;
+}
+img {
+    width: 990px;
+    height: 500px;
+}
